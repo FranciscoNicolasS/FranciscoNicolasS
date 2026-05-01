@@ -47,4 +47,3 @@ Atualmente, estou focado em aprender **HTML5 e CSS3** através do **Curso em Ví
 </p>
 
 ---
-*"O sucesso é o somatório de pequenos esforços repetidos dia após dia."* 🚀
