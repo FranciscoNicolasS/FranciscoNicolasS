@@ -7,6 +7,23 @@ Olá! Me chamo Francisco, tenho 14 anos e estou iniciando minha jornada na progr
 Atualmente, estou focado em aprender **HTML5 e CSS3** através do **Curso em Vídeo**, com o professor **Gustavo Guanabara**. Estou construindo minha base para, em breve, dominar o JavaScript e criar sites cada vez mais complexos.
 
 ---
+
+### 🚀 Meus Projetos em Destaque:
+
+<table>
+  <tr>
+    <td>
+      Projeto Android (Curso em Vídeo)
+      <br><br>
+      Site focado em aprender responsividade, design e semântica, contando a história do mascote do Android.
+      <br><br>
+      🌐Ver site ao vivo (https://francisconicolass.github.io/projeto-android/) | 💻Ver código (https://github.com/FranciscoNicolasS/projeto-android)
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📚 Tecnologias em foco:
 <p align="left">
 <img alt="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -30,3 +47,4 @@ Atualmente, estou focado em aprender **HTML5 e CSS3** através do **Curso em Ví
 </p>
 
 ---
+*"O sucesso é o somatório de pequenos esforços repetidos dia após dia."* 🚀
