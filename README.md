@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento Web`**
 
-Olá! Me chamo Francisco, tenho 14 anos e estou iniciando minha jornada na programação. 
+Olá! Me chamo Nicolas, tenho 14 anos e estou iniciando minha jornada na programação. 
 
 Atualmente, estou focado em aprender **HTML5 e CSS3** através do **Curso em Vídeo**, com o professor **Gustavo Guanabara**. Estou construindo minha base para, em breve, dominar o JavaScript e criar sites cada vez mais complexos.
 
