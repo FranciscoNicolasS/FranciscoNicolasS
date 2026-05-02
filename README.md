@@ -13,7 +13,7 @@ Atualmente, estou focado em aprender **HTML5 e CSS3** através do **Curso em Ví
 <table>
   <tr>
     <td>
-      **Projeto Android** (Curso em Vídeo)
+      Projeto Android (Curso em Vídeo)
       <br><br>
       Site focado em aprender responsividade, design e semântica, contando a história do mascote do Android.
       <br><br>
@@ -42,12 +42,11 @@ Atualmente, estou focado em aprender **HTML5 e CSS3** através do **Curso em Ví
 <p align="left">
   <img 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=FranciscoNicolasS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=FranciscoNicolasS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
   />
   <img 
     height="170" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoNicolasS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 </p>
-
 ---
